@@ -83,16 +83,16 @@ body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(https://raw.githubusercontent.com/Lord-Funion/lord-funion.github.io/main/newer.png);
+  background-image: url(https://resent.kones.tech/favicon.png);
 }
 .card:nth-child(2):before {
-  background-image: url(https://raw.githack.com/Lord-Funion/lord-funion.github.io/main/leg.png);
+  background-image: url(https://seeklogo.com/images/A/adobe-flash-8-logo-1D131CB437-seeklogo.com.png?v=638133602460000000);
 }
 .card:nth-child(3):before {
-  background-image: url("https://raw.githubusercontent.com/Lord-Funion/lord-funion.github.io/main/th.jpg");
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==");
 }
 .card:nth-child(4):before {
-  background-image: url(https://images.unsplash.com/photo-1531306728370-e2ebd9d7bb99?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+  background-image: url(https://media.tenor.com/WC3Hil6PFD8AAAAM/capybara-riding.gif);
 }
 
 .content {
